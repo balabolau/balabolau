@@ -8,7 +8,7 @@
 <h2>🎓 Certifications and Courses:</h2>
 
 - <b>[Introduction to Pandas](https://www.kaggle.com/learn/pandas)</b>
-- 
+- <b>[Scientific Computing with Python](https://www.freecodecamp.org/learn/scientific-computing-with-python/)</b>
 
 <h2> 🤳 Connect with me:</h2>
 
