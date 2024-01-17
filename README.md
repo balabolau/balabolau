@@ -4,6 +4,8 @@
 
 - <b>Web development</b>
   - [PyShop](https://github.com/balabolau/PyShop)
+- <b>Python</b>
+  - [Black Jack](https://github.com/balabolau/Milestone-2)
 
 <h2>🎓 Certifications and Courses:</h2>
 
