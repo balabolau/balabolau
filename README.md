@@ -5,7 +5,7 @@
 - <b>Web development</b>
   - [PyShop](https://github.com/balabolau/PyShop)
 - <b>Python</b>
-  - [Black Jack](https://github.com/balabolau/Milestone-2)
+  - [Black Jack](https://github.com/balabolau/Black-Jack)
 
 <h2>🎓 Certifications and Courses:</h2>
 
