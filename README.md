@@ -7,7 +7,7 @@
 
 <h2>🎓 Certifications and Courses:</h2>
 
-- [Introduction to Pandas](https://www.kaggle.com/learn/pandas)
+- <b>[Introduction to Pandas](https://www.kaggle.com/learn/pandas)</b>
 - 
 
 <h2> 🤳 Connect with me:</h2>
