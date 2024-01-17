@@ -11,6 +11,8 @@
 - <b>[Scientific Computing with Python](https://www.freecodecamp.org/learn/scientific-computing-with-python/)</b>
 - <b>[HTML Crash Course](https://www.youtube.com/watch?v=qz0aGYrrlhU)</b>
 - <b>[Python Full Course for Beginners](https://www.youtube.com/watch?v=_uQrJ0TkZlc)</b>
+- <b>[Python Bootcamp](https://www.udemy.com/course/complete-python-bootcamp/)</b>
+- <b>[100 Python Exercices](https://www.udemy.com/course/python-video-workbook/)</b>
 
 <h2> 🤳 Connect with me:</h2>
 
