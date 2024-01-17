@@ -1,9 +1,9 @@
 <h1>Hi, I'm Anton! <br/><a>Python Developer</a>, <a>Data Analyst</a> and <a>Azure Cloud Apprentice</a></h1>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 Projects:</h2>
 
-- <b>Area</b>
-  - [Project](link)
+- <b>Web development</b>
+  - [PyShop](https://github.com/balabolau/PyShop)
 
 <h2>🎓 Certifications and Courses:</h2>
 
