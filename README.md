@@ -5,6 +5,9 @@
 - <b>Area</b>
   - [Project](link)
 
+<h2>🎓 Certifications and Courses:</h2>
+
+- <b>
 
 <h2> 🤳 Connect with me:</h2>
 
