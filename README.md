@@ -9,6 +9,8 @@
 
 - <b>[Introduction to Pandas](https://www.kaggle.com/learn/pandas)</b>
 - <b>[Scientific Computing with Python](https://www.freecodecamp.org/learn/scientific-computing-with-python/)</b>
+- <b>[HTML Crash Course](https://www.youtube.com/watch?v=qz0aGYrrlhU)</b>
+- <b>[Python Full Course for Beginners](https://www.youtube.com/watch?v=_uQrJ0TkZlc)</b>
 
 <h2> 🤳 Connect with me:</h2>
 
