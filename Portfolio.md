@@ -8,6 +8,10 @@
   - [Black Jack](https://github.com/balabolau/BlackJack)
   - [Tic Tac Toe](https://github.com/balabolau/TicTacToe)
 
+<h2>💼 Work Experience</h2>
+
+- <b>[Technology Intern at MORGAN STANLEY](https://morganstanley.tal.net/vx/candidate/apply/14984)</b>
+
 <h2>🎓 Certifications and Courses</h2>
 
 - <b>[Introduction to Pandas](https://www.kaggle.com/learn/pandas)</b>
@@ -16,10 +20,6 @@
 - <b>[Python Full Course for Beginners](https://www.youtube.com/watch?v=_uQrJ0TkZlc)</b>
 - <b>[Python Bootcamp](https://www.udemy.com/course/complete-python-bootcamp/)</b>
 - <b>[100 Python Exercices](https://www.udemy.com/course/python-video-workbook/)</b>
-
-<h2>💼 Work Experience</h2>
-
-- <b>[Technology Intern at MORGAN STANLEY](https://morganstanley.tal.net/vx/candidate/apply/14984)</b>
 
 <h2> 🤳 Connect with me</h2>
 
