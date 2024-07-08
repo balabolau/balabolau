@@ -21,6 +21,11 @@
 - <b>[Python Bootcamp](https://www.udemy.com/course/complete-python-bootcamp/)</b>
 - <b>[100 Python Exercices](https://www.udemy.com/course/python-video-workbook/)</b>
 
+<h2>📚 Currently Learning</h2>
+
+- <b>Power Platform (PL-900 & PL-200)</b>
+- <b>Machine Learning</b>
+
 <h2> 🤳 Connect with me</h2>
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
