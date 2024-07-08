@@ -19,9 +19,9 @@
 
 <h2>💼 Work Experience</h2>
 
-- <b>[Summer Technology Intern at MORGAN STANLEY](https://morganstanley.tal.net/vx/candidate/apply/14984)</b>
+- <b>[Technology Intern at MORGAN STANLEY](https://morganstanley.tal.net/vx/candidate/apply/14984)</b>
 
-<h2> 🤳 Connect with me:</h2>
+<h2> 🤳 Connect with me</h2>
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
