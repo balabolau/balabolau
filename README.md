@@ -19,7 +19,7 @@
 
 <h2>💼 Work Experience</h2>
 
-- <b>Summer Technology Intern at MORGAN STANLEY</b>
+- <b>[Summer Technology Intern at MORGAN STANLEY](https://morganstanley.tal.net/vx/candidate/apply/14984)</b>
 
 <h2> 🤳 Connect with me:</h2>
 
