@@ -3,9 +3,10 @@
 <h2>💼 Work Experience</h2>
 
 - <b>[Technology Intern at MORGAN STANLEY](https://morganstanley.tal.net/vx/candidate/apply/14984)</b>
+<!---
   - Created a Universe Comparison Tool for Business Objects (BOXI) that returns all the changes made between environments
   - Worked on a DevGenAI application that can convert code into english and into other programming languages
-  - Worked on a security system that checks whether a user has the permissions for his data request (RESTful API)
+  - Worked on a security system that checks whether a user has the permissions for his data request (RESTful API) --->
 
 <h2>🎓 Certifications and Courses</h2>
 
