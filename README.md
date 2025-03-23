@@ -4,7 +4,7 @@
 
 - <b>[Technology Intern at MORGAN STANLEY](https://morganstanley.tal.net/vx/candidate/apply/14984)</b>
   - Created a Universe Comparison Tool for SAP Business Objects (BOXI) that returns a diff of the changes done between environments
-  - Participated in the creation of a DevGenAI application for code translation
+  - Participated in the development of a DevGenAI application for code translation
   - Worked on a security system that checks user permission for data extraction (RESTful API)
 
 <h2>💻 Skills</h2>
