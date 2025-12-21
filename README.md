@@ -46,19 +46,13 @@ extraction.</li>
 
 <ul>
   <li>
-    <b>Primary</b>: Python (Pandas, Torch, Flask, APIs, Redis, Streamlit), Machine Learning, AI, LangChain
+    <b>Programming & Data</b>: Python (Pandas, Torch, Flask, APIs, Redis, Streamlit), Machine Learning, AI, LangChain, Unix, Git — Familiar with Java, C, SQL, bash — Strong focus on algorithms and CS fundamentals
   </li>
   <li>
-    <b>Familiar</b>: Java, C, SQL
+    <b>Low-code Platforms</b>: Microsoft Power Apps (Model-driven, Canvas, Dataverse), Microsoft Power Automate
   </li>
   <li>
-    <b>Tools</b>: Unix, Git, bash (exposure)
-  </li>
-  <li>
-    <b>Focus</b>: Algorithms &amp; CS fundamentals
-  </li>
-  <li>
-    <b>Cloud (basic)</b>: AWS, Azure
+    <b>Cloud</b>: Microsoft Azure (basic), AWS (basic)
   </li>
 </ul>
 
@@ -66,7 +60,7 @@ extraction.</li>
 
 <h2>🧪 Personal Projects (deployments coming soon)</h2>
 <ul>
-  <li><b>Speech-to-Text Transcription App</b>: Whisper-powered platform for converting lectures/meetings into accurate text (to be open-sourced &amp; deployed).</li>
+  <li><b>Speech-to-Text Transcription App</b>: Whisper-powered platform for converting lectures/meetings into accurate text (checkout AITranscription).</li>
   <li><b>Degree Planning Assistant</b>: Scrapes prerequisites/co-requisites, visualizes program graphs, and includes an AI assistant for course planning (in development).</li>
 </ul>
 
