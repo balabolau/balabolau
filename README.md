@@ -15,26 +15,27 @@
   <li>
     <b>Technology Intern — Morgan Stanley</b> <i>(Full-time with part-time extension, Summer 2025 – Present)</i>
     <ul>
-      <li>Developed a log consolidation &amp; filtering tool to aggregate distributed Kafka logs by user query, significantly reducing issue resolution time; later adopted for MongoDB logs.</li>
-      <li>Built an early Flask API with Grafana integration for log visualization (later deprecated in favor of AI workflow).</li>
-      <li>Designed an AI-powered anomaly detection assistant using LangChain with a Streamlit UI for real-time log analysis.</li>
-      <li>Currently building a multi-tool anomaly detection agent combining LLM, ML and statistical tools</li>
+      <li>Developed a log consolidation and filtering script that concurrently aggregates distributed Kafka logs into a single location based on user queries, significantly reducing issue resolution time. This tool was also adopted by another team to consolidate MongoDB logs.</li>
+      <li>Built an early version of a Flask API with Grafana dashboard integration for log visualization and monitoring (later deprecated).</li>
+      <li>Designed and implemented an AI-powered anomaly detection assistant using LangChain, integrated with a Streamlit UI. The system consolidates logs and enables real-time anomaly analysis, replacing the Grafana approach.</li>
+      <li>Developed a multi-tool anomaly detection agent, combining LLM-based prompt detection with machine learning and statistical tools to improve log analysis accuracy and flexibility.</li>
     </ul>
   </li>
   <li>
     <b>Technology Intern — Morgan Stanley</b> <i>(Full-time, Summer 2024)</i>
     <ul>
-      <li>Created a Universe Comparison Tool for SAP Business Objects (BOXI) to diff environment changes.</li>
-      <li>Contributed to a DevGenAI application for code translation.</li>
-      <li>Enhanced a security system via a RESTful API validating user permissions for data extraction.</li>
+      <li>Built a Universe Comparison Tool for SAP Business Objects (BOXI) that returns a diff of environment changes.</li>
+      <li>Contributed to the development of a DevGenAI application for code translation.</li>
+      <li>Enhanced a security system by developing a RESTful API that validates user permissions for data
+extraction.</li>
     </ul>
   </li>
   <li>
     <b>Power Apps Consultant - Freelance</b> <i>(Part-time, Winter 2025)</i>
     <ul>
       <li>Designed responsive Canvas Apps tailored to client needs.</li>
-      <li>Resolved relationship/data model issues in model-driven apps (Dataverse).</li>
-      <li>Built and optimized <b>Power Automate</b> workflows to integrate services and reduce manual work.</li>
+      <li>Solved relationship and data model issues in model-driven apps.</li>
+      <li>Built Power Automate workflows to automate processes across client applications.</li>
     </ul>
   </li>
 </ul>
@@ -74,16 +75,6 @@
 <h2>🎓 Education</h2>
 <ul>
   <li><b>McGill University</b> — B.Sc., Joint Major in Statistics &amp; Computer Science (2025–2028, expected)</li>
-  <li><b>Collège Jean-de-Brébeuf</b> — Health Sciences (R Score: 33) (2023-2025)</li>
-  <li><b>Collège Jean-de-Brébeuf (High School)</b> — International Baccalaureate (avg 86%) (2018-2025)</li>
-</ul>
-
-<hr/>
-
-<h2>🏅 Awards</h2>
-<ul>
-  <li>Water Polo Canada — 2× Gold Medalist, U17 NCL (2022, 2023)</li>
-  <li>Water Polo Québec — Team Québec Athlete (2021–2024); Team Québec Elite (2023, provincial champions)</li>
 </ul>
 
 <hr/>
