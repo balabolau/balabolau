@@ -23,7 +23,9 @@ Open WebUI · Uptime Kuma
 **Where it's going:**
 - Local RAG pipeline over my Obsidian notes and scanned documents
 - n8n workflows integrating local LLMs to automate personal and entrepreneurial tasks
-- Price scraper with AI-powered structured extraction and Telegram alerts
+    - Personal assistant
+    - Price tracking
+    - Fully automated content creation
 
 <br>
 
