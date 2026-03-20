@@ -49,6 +49,6 @@ Useful for lectures, meetings, and interviews.
 
 ---
 
-## 📬 Connect
+## 📬 Let's Connect!
 
 [LinkedIn](https://linkedin.com/in/balabolau) · [Email](mailto:balabolau@gmail.com)
