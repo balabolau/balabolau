@@ -30,7 +30,7 @@ Open WebUI · Uptime Kuma
 <br>
 
 ### 🎙️ AI Transcription App
-Lightweight web app for converting audio recordings into accurate text.
+Web app for converting audio recordings into accurate text.
 Useful for lectures, meetings, and interviews.
 
 **Stack:** Whisper · FastAPI · Redis · Streamlit
