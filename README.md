@@ -24,7 +24,7 @@ Ollama · Open WebUI · Home Assistant · Uptime Kuma
 - n8n workflows integrating local LLMs to automate personal and entrepreneurial tasks
     - Personal assistant
     - Price tracking
-    - Fully automated content creation
+    - Content creation lab
 
 <br>
 
