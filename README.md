@@ -45,6 +45,7 @@ Useful for lectures, meetings, and interviews.
 **Backend:** FastAPI · Flask · Redis · REST APIs  
 **Infrastructure:** Docker · nginx · Tailscale · n8n · Linux  
 **Low-code:** Power Apps · Power Automate  
+**Cloud:** AWS, Azure
 
 ---
 
