@@ -40,12 +40,13 @@ Useful for lectures, meetings, and interviews.
 
 ## 🛠️ Tech I Work With
 
-**Languages:** Python · Java · bash · C · ASM · SQL  
-**AI/ML:** LangChain · Ollama · Torch · Whisper  
+**Main Languages:** Python · Java  
+**Familiar Languages:** bash · C · ASM · SQL  
+**AI/ML/Data:** Pandas · LangChain · Ollama · Torch · Whisper · n8n  
 **Backend:** FastAPI · Flask · Redis · REST APIs  
-**Infrastructure:** Docker · nginx · Tailscale · n8n · Linux  
+**Infrastructure/Networking:** Docker · Linux · nginx  
 **Low-code:** Power Apps · Power Automate  
-**Cloud:** AWS, Azure
+**Cloud:** AWS · Azure  
 
 ---
 
