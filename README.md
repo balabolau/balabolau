@@ -13,8 +13,8 @@ algorithms.
 A privacy-first home server running 10+ containerised services on a 2-node cluster, managed entirely via Docker Compose and accessible over a
 Tailscale mesh VPN.
 
-**Stack:** Ollama · n8n · Seafile · Immich · nginx · Pi-hole · Home Assistant ·
-Open WebUI · Uptime Kuma
+**Stack:** n8n · Seafile · Immich · nginx · Pi-hole · 
+Ollama · Open WebUI · Home Assistant · Uptime Kuma
 
 **Philosophy:** Replace subscription-based cloud services with self-hosted alternatives
 — storage, photo management, workflow automation, and AI inference, all running locally.
