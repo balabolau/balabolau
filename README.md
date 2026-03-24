@@ -10,7 +10,7 @@ algorithms.
 ## 🔨 What I'm Building
 
 ### 🏠 Self-Hosted Homelab
-A privacy-first home server running 10+ containerised services on a 2-node cluster, managed entirely via Docker Compose and accessible over a
+A privacy-first home server running multiple containerised services on a 2-node cluster, managed entirely via Docker Compose and accessible over a
 Tailscale mesh VPN.
 
 **Stack:** n8n · Seafile · Immich · nginx · Pi-hole · 
@@ -19,11 +19,16 @@ Ollama · Open WebUI · Home Assistant · Uptime Kuma
 **Philosophy:** Replace subscription-based cloud services with self-hosted alternatives
 — storage, photo management, workflow automation, and AI inference, all running locally.
 
+**Running n8n automations:**
+- Gmail daily auto-labelling
+- Flight price alerts
+- Topic-focused daily news digest
+
 **Where it's going:**
 - Local RAG pipeline over my Obsidian notes and scanned documents
 - n8n workflows integrating local LLMs to automate personal and entrepreneurial tasks
     - Personal assistant
-    - Price tracking
+    - Generalized price tracking
     - Content creation lab
 
 <br>
