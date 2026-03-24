@@ -10,8 +10,7 @@ algorithms.
 ## 🔨 What I'm Building
 
 ### 🏠 Self-Hosted Homelab
-A privacy-first home server running 15+ containerised services on a GPU-accelerated
-Lenovo (GTX 1650), managed entirely via Docker Compose and accessible over a
+A privacy-first home server running 10+ containerised services on a 2-node cluster, managed entirely via Docker Compose and accessible over a
 Tailscale mesh VPN.
 
 **Stack:** Ollama · n8n · Seafile · Immich · nginx · Pi-hole · Home Assistant ·
