@@ -25,7 +25,7 @@ Ollama · Open WebUI · Home Assistant · Uptime Kuma
 - Topic-focused daily news digest
 
 **Where it's going:**
-- Local RAG pipeline over my Obsidian notes and scanned documents
+- Local RAG pipeline over my Obsidian notes and scanned documents (with OCR)
 - n8n workflows integrating local LLMs to automate personal and entrepreneurial tasks
     - Personal assistant
     - Generalized price tracking
