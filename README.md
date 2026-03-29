@@ -26,6 +26,7 @@ Ollama · Open WebUI · Home Assistant · Uptime Kuma
 
 **Where it's going:**
 - Local RAG pipeline over my Obsidian notes and scanned documents (with OCR)
+- Financial dashboard for budgeting and investment observability
 - n8n workflows integrating local LLMs to automate personal and entrepreneurial tasks
     - Personal assistant
     - Generalized price tracking
